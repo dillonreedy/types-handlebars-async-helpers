@@ -1,0 +1,16 @@
+{
+  "name": "types-handlebars-async-helpers",
+  "version": "1.0.0",
+  "description": "TypeScript type declarations for handlebars-async-helpers, a library extending Handlebars.js with asynchronous helper functions. This package provides TypeScript types for better development experience, enabling features like autocompletion, type checking and inference when using handlebars-async-helpers in TypeScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate": "ts-migrate-full ./helpers"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-migrate": "^0.1.35"
+  }
+}
